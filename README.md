@@ -125,3 +125,9 @@
   https://jestjs.io/docs/en/getting-started
 )
 
+- [ ] [
+  Automate your browser with Puppeteer
+](
+  https://github.com/puppeteer/puppeteer
+)
+
