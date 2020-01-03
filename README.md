@@ -69,7 +69,7 @@
 ## Get Peer reviews
 
 - [ ] [
-  Zoom
+  Share your computer screen live with Zoom
 ](
   https://zoom.us/support/download
 )
