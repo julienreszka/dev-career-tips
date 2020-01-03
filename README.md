@@ -83,25 +83,25 @@
 ## Learn the fundamentals
 
 - [ ] [
-  Get the big picture of how the web works
+  Get the big picture of how the web works (13 min)
 ](
   https://www.youtube.com/watch?v=hJHvdBlSxug
 )
 
 - [ ] [
-  Have a basic interaction with the file system thanks to Bash
+  Have a basic interaction with the file system thanks to Bash (60 min)
 ](
   https://learnxinyminutes.com/docs/bash/
 )
 
 - [ ] [
-  Exchange data with JSON
+  Exchange data with the JSON format (12 minutes)
 ](
   https://youtu.be/iiADhChRriM
 )
 
 - [ ] [
-  Manipulate your data with Javascript Array Methods
+  Manipulate your data with Javascript Array Methods (11 minutes)
 ](
   https://youtu.be/R8rmfD9Y5-c
 )
