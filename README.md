@@ -75,7 +75,7 @@
 
 - [ ] [
   Share your computer screen live with Zoom (10 min)
-]
+](
   https://zoom.us/support/download
 )
 
