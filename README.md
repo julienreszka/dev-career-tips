@@ -89,13 +89,19 @@
 )
 
 - [ ] [
+  Select data with Regular Expressions, REGEX (21 min)
+](
+  https://www.youtube.com/watch?v=rhzKDrUiJVk
+)
+
+- [ ] [
   Have a basic interaction with the file system thanks to Bash (60 min)
 ](
   https://learnxinyminutes.com/docs/bash/
 )
 
 - [ ] [
-  Exchange data with the JSON format (12 minutes)
+  Exchange data with the JSON format (12 min)
 ](
   https://youtu.be/iiADhChRriM
 )
