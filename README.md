@@ -4,18 +4,18 @@
 ## Write living documentations
 
 - [ ] [
-  Markdown
+  Write README documents with Markdown
 ](
   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 )
 - [ ] [
-  Bahavior Driven Development (BDD)
+  Write feature specifications with Bahavior Driven Development (BDD)
 ](
   https://en.wikipedia.org/wiki/Behavior-driven_development
 )
 
 - [ ] [
-  Test Driven Development (TDD)
+  Write features with Test Driven Development (TDD)
 ](
   https://en.wikipedia.org/wiki/Test-driven_development
 )
