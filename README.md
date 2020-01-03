@@ -89,19 +89,19 @@
 )
 
 - [ ] [
-  Bash
+  Have a basic interaction with the file system thanks to Bash
 ](
   https://learnxinyminutes.com/docs/bash/
 )
 
 - [ ] [
-  JSON
+  Exchange data with JSON
 ](
   https://youtu.be/iiADhChRriM
 )
 
 - [ ] [
-  Javascript Array Methods
+  Manipulate your data with Javascript Array Methods
 ](
   https://youtu.be/R8rmfD9Y5-c
 )
