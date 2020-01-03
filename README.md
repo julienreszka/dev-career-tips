@@ -4,18 +4,18 @@
 ## Write living documentations
 
 - [ ] [
-  Write README documents with Markdown
+  Write README documents with Markdown (60 min)
 ](
   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 )
 - [ ] [
-  Write feature specifications with Bahavior Driven Development (BDD)
+  Write feature specifications with Bahavior Driven Development (BDD) (60 min)
 ](
   https://en.wikipedia.org/wiki/Behavior-driven_development
 )
 
 - [ ] [
-  Write features with Test Driven Development (TDD)
+  Write features with Test Driven Development (TDD) (60 min)
 ](
   https://en.wikipedia.org/wiki/Test-driven_development
 )
@@ -25,31 +25,31 @@
 ## Start projects
 
 - [ ] [
-  Create a Github account
+  Create a Github account (10 min)
 ](
   https://github.com/
 )
 
 - [ ] [
-  Install Github Desktop
+  Install Github Desktop (10 min)
 ](
   https://desktop.github.com/
 )
 
 - [ ] [
-  Create a Github page
+  Create a Github page (20 min)
 ](
   https://pages.github.com/
 )
 
 - [ ] [
-  Install Visual Studio Code
+  Install Visual Studio Code (10 min)
 ](
   https://code.visualstudio.com/download
 )
 
 - [ ] [
-  Install Node.js
+  Install Node.js (20 min)
 ](
   https://nodejs.org/en/
 )
@@ -69,15 +69,14 @@
 ## Get Peer reviews
 
 - [ ] [
-  Share your computer screen live with Zoom
-](
+  Share your computer screen live with Zoom (10 min)
   https://zoom.us/support/download
 )
 
 ## Get a developer reputation
 
 - [ ] [
-  Create a profile on stackoverflow
+  Create a profile on stackoverflow (10 min)
 ](
   https://stackoverflow.com/
 )
