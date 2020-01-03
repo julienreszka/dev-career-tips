@@ -114,9 +114,15 @@
 )
 
 - [ ] [
-  Manipulate your data with Javascript Array Methods (11 minutes)
+  Manipulate your data with Javascript Array Methods (11 min)
 ](
   https://youtu.be/R8rmfD9Y5-c
+)
+
+- [ ] [
+  Learn to select dom elements with query Selectors (8 min)
+](
+  https://youtu.be/JlgLDfINXvY
 )
 
 - [ ] [
@@ -129,5 +135,11 @@
   Automate your browser with Puppeteer
 ](
   https://github.com/puppeteer/puppeteer
+)
+
+- [ ] [
+  Write end to end (E2E) tests with Cypress
+](
+  https://www.cypress.io/
 )
 
