@@ -1,7 +1,7 @@
 # dev-career-tips
 
 
-## Living documentation
+## Write living documentations
 
 - [ ] [
   Markdown
@@ -46,7 +46,25 @@
   https://code.visualstudio.com/download
 )
 
-## Peer reviews
+- [ ] [
+  Install Node.js
+](
+  https://nodejs.org/en/
+)
+
+- [ ] [
+  Prototype your databases with airtable
+](
+  https://airtable.com/
+)
+
+- [ ] [
+  Find icon ideas with then noun project
+](
+  https://thenounproject.com/
+)
+
+## Get Peer reviews
 
 - [ ] [
   Zoom
@@ -61,3 +79,24 @@
 ](
   https://stackoverflow.com/
 )
+
+## Learn the fundamentals
+
+- [ ] [
+  Bash
+](
+  https://learnxinyminutes.com/docs/bash/
+)
+
+- [ ] [
+  JSON
+](
+  https://youtu.be/iiADhChRriM
+)
+
+- [ ] [
+  Javascript Array Methods
+](
+  https://youtu.be/R8rmfD9Y5-c
+)
+
