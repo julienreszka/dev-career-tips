@@ -20,6 +20,8 @@
   https://en.wikipedia.org/wiki/Test-driven_development
 )
 
+
+
 ## Start projects
 
 - [ ] [
@@ -110,5 +112,11 @@
   Manipulate your data with Javascript Array Methods (11 minutes)
 ](
   https://youtu.be/R8rmfD9Y5-c
+)
+
+- [ ] [
+  Write your tests with Jest
+](
+  https://jestjs.io/docs/en/getting-started
 )
 
