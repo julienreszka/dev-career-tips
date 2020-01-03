@@ -57,7 +57,7 @@
 ## Get a developer reputation
 
 - [ ] [
-  Create a developer profile
+  Create a profile on stackoverflow
 ](
   https://stackoverflow.com/
 )
