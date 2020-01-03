@@ -83,6 +83,12 @@
 ## Learn the fundamentals
 
 - [ ] [
+  Get the big picture of how the web works
+](
+  https://www.youtube.com/watch?v=hJHvdBlSxug
+)
+
+- [ ] [
   Bash
 ](
   https://learnxinyminutes.com/docs/bash/
