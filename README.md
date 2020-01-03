@@ -8,6 +8,7 @@
 ](
   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 )
+
 - [ ] [
   Write feature specifications with Bahavior Driven Development (BDD) (60 min)
 ](
@@ -20,7 +21,11 @@
   https://en.wikipedia.org/wiki/Test-driven_development
 )
 
-
+- [ ] [
+  Learn to use Github
+](
+  https://help.github.com/en
+)
 
 ## Start projects
 
@@ -70,6 +75,7 @@
 
 - [ ] [
   Share your computer screen live with Zoom (10 min)
+]
   https://zoom.us/support/download
 )
 
