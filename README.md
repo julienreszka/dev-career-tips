@@ -1,6 +1,7 @@
 # dev-career-tips
 
 
+
 ## Write living documentations
 
 - [ ] [
@@ -69,6 +70,14 @@
   Find icon ideas with then noun project
 ](
   https://thenounproject.com/
+)
+
+## Measure your effort
+
+- [ ] [
+  Measure how much time you spend working on a project with Wakatime
+](
+  https://wakatime.com/
 )
 
 ## Get Peer reviews
