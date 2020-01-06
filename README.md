@@ -67,7 +67,7 @@
 )
 
 - [ ] [
-  Find icon ideas with then noun project
+  Find icon ideas with the noun project
 ](
   https://thenounproject.com/
 )
