@@ -75,15 +75,22 @@
 ## Measure your effort
 
 - [ ] [
-  Measure how much time you spend working on a project with Wakatime
+  Stay focused by measuring how much time you spend working on a project with Wakatime
 ](
   https://wakatime.com/
 )
 
+- [ ] [
+  Stay fit by measuring how much time you spend running, or cycling
+](
+  https://www.strava.com/
+)
+
+
 ## Get Peer reviews
 
 - [ ] [
-  Share your computer screen live with Zoom (10 min)
+  Who your work to other programmers by sharing your computer screen live with Zoom (10 min)
 ](
   https://zoom.us/support/download
 )
