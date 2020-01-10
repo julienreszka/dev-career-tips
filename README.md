@@ -92,7 +92,7 @@
 
 - [ ] Stay awake, always get proper lighting for where you work
 - [ ] Save your eyes, always use a light theme in your text editor and everywhere else. Dark themes are a sham.
-- [ ] Prevent your working memory from working too much by having a large monitor 
+- [ ] Prevent your working memory from going to waste switching windows by having one or two large monitors
 - [ ] Stay focused while typing by having a proper keyboard
 - [ ] Prevent issues with your arms and hand by buying a vertical mouse
 - [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
