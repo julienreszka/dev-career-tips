@@ -86,11 +86,15 @@
   https://www.strava.com/
 )
 
+## Reduce your effort
+
+- [ ] Stay awake, always get proper lighting for where you work
+- [ ] Save your eyes, always use a light theme in your text editor and everywhere else. Dark themese are a sham.
 
 ## Get Peer reviews
 
 - [ ] [
-  Who your work to other programmers by sharing your computer screen live with Zoom (10 min)
+  Show your work to other programmers by sharing your computer screen live with Zoom (10 min)
 ](
   https://zoom.us/support/download
 )
@@ -136,6 +140,12 @@
 )
 
 - [ ] [
+  Template your web pages and web application with html elements
+](
+  https://www.w3schools.com/html/default.asp
+)
+
+- [ ] [
   Learn to select dom elements with query Selectors (8 min)
 ](
   https://youtu.be/JlgLDfINXvY
@@ -146,6 +156,8 @@
 ](
   https://jestjs.io/docs/en/getting-started
 )
+
+- [ ] Write your tests with mocha and chai
 
 - [ ] [
   Automate your browser with Puppeteer
