@@ -61,6 +61,12 @@
 )
 
 - [ ] [
+  Prototype your forms with Typeform
+](
+  https://www.typeform.com/
+)
+
+- [ ] [
   Prototype your databases with airtable
 ](
   https://airtable.com/
@@ -77,6 +83,13 @@
 ](
   https://zapier.com/home
 )
+
+- [ ] [
+  Connect Typeform and Airtable (20 min)
+](
+  https://youtu.be/hnRlHot-XCU
+)
+
 
 ## Measure your desired effort
 
