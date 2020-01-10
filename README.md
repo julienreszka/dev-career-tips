@@ -72,7 +72,7 @@
   https://thenounproject.com/
 )
 
-## Measure your effort
+## Measure your desired effort
 
 - [ ] [
   Stay focused by measuring how much time you spend working on a project with Wakatime
@@ -86,14 +86,24 @@
   https://www.strava.com/
 )
 
-- [ ] Define desirable outcomes with milestones and keep your roadmap up to date
+- [ ] Define desirable outcomes with milestones 
+- [ ] Order your desirable outcomes by keeping your roadmap up to date
 
-## Reduce your effort
+## Reduce your undesired effort
 
 - [ ] Stay awake, always get proper lighting for where you work
-- [ ] Save your eyes, always use a light theme in your text editor and everywhere else. Dark themese are a sham.
+- [ ] Save your eyes, always use a light theme in your text editor and everywhere else. Dark themes are a sham.
+- [ ] Prevent your working memory from working too much by having a large monitor 
+- [ ] Stay focused while typing by having a proper keyboard
+- [ ] Prevent issues with your arms and hand by buying a vertical mouse
+- [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
 
 ## Get Peer reviews
+- [ ] [
+  Review your own code through Rubber duck debugging before wasting precious developer attention
+](
+  https://en.wikipedia.org/wiki/Rubber_duck_debugging
+)
 
 - [ ] [
   Show your work to other programmers by sharing your computer screen live with Zoom (10 min)
