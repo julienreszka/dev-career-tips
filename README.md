@@ -28,25 +28,7 @@
   https://help.github.com/en
 )
 
-## Start projects
-
-- [ ] [
-  Create a Github account (10 min)
-](
-  https://github.com/
-)
-
-- [ ] [
-  Install Github Desktop (10 min)
-](
-  https://desktop.github.com/
-)
-
-- [ ] [
-  Create a Github page (20 min)
-](
-  https://pages.github.com/
-)
+## Setup your development environment
 
 - [ ] [
   Install Visual Studio Code (10 min)
@@ -59,6 +41,20 @@
 ](
   https://nodejs.org/en/
 )
+
+- [ ] [
+  Backup your git repositories online on Github (10 min)
+](
+  https://github.com/
+)
+
+- [ ] [
+  Manage your github local repositories with Github Desktop (10 min)
+](
+  https://desktop.github.com/
+)
+
+## Start projects
 
 - [ ] [
   Prototype your forms with Typeform
@@ -88,6 +84,12 @@
   Connect Typeform and Airtable (20 min)
 ](
   https://youtu.be/hnRlHot-XCU
+)
+
+- [ ] [
+  Publish a first website with Github pages (20 min)
+](
+  https://pages.github.com/
 )
 
 
