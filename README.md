@@ -84,6 +84,19 @@
   https://help.github.com/en
 )
 
+## Get a developer reputation
+
+- [ ] [
+  Create a profile on stackoverflow (10 min)
+](
+  https://stackoverflow.com/
+)
+
+- [ ] [
+  Prevent someone from pretending they're you by buying and owning a domain name with `firstnamelastname.com` where you put links to profiles of yourself that you recognize on the web
+](
+  https://domains.google.com
+)
 
 
 ## Start projects
@@ -140,19 +153,7 @@
   https://zoom.us/support/download
 )
 
-## Get a developer reputation
 
-- [ ] [
-  Create a profile on stackoverflow (10 min)
-](
-  https://stackoverflow.com/
-)
-
-- [ ] [
-  Prevent someone from pretending they're you by buying and owning a domain name with `firstnamelastname.com` where you put links to profiles of yourself that you recognize on the web
-](
-  https://domains.google.com
-)
 
 ## Learn the fundamentals
 
