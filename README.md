@@ -96,7 +96,9 @@
 - [ ] Stay focused while typing by having a proper keyboard
 - [ ] Prevent issues with your arms and hand by buying a vertical mouse
 - [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
-- [ ] Prevent multitasking by clearing your environment from distractions
+- [ ] Prevent multitasking by clearing your environment from distractions 
+- [ ] Prevent people from interrupting your work by walling and door locking your environment
+- [ ] Prevent sounds from distracting you by using Noise cancelling headphones
 
 ## Get Peer reviews
 - [ ] [
