@@ -1,6 +1,36 @@
 # dev-career-tips
 
+## Measure your desired effort
 
+- [ ] [
+  Define Desirable Outcomes with Milestones 
+](
+  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
+)
+
+- [ ] [
+  Stay Focused by measuring how much time you spend working on a project with Wakatime
+](
+  https://wakatime.com/
+)
+
+- [ ] [
+  Stay Fit by measuring how much time you spend running, or cycling
+](
+  https://www.strava.com/
+)
+
+## Prevent undesired effort
+
+- [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue), always get proper lighting in your working environment
+- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain), always use a light theme in your text editor and everywhere else. Dark themes are a sham.
+- [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
+- [ ] Prevent auditive noise distraction while typing by having a silent keyboard
+- [ ] Prevent [Repetitive stain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
+- [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
+- [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
+- [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
+- [ ] Prevent auditive noise from distracting you by using Noise cancelling headphones
 
 ## Write living documentations
 
@@ -93,37 +123,7 @@
 )
 
 
-## Measure your desired effort
 
-- [ ] [
-  Define Desirable Outcomes with Milestones 
-](
-  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
-)
-
-- [ ] [
-  Stay Focused by measuring how much time you spend working on a project with Wakatime
-](
-  https://wakatime.com/
-)
-
-- [ ] [
-  Stay Fit by measuring how much time you spend running, or cycling
-](
-  https://www.strava.com/
-)
-
-## Prevent undesired effort
-
-- [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue), always get proper lighting in your working environment
-- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain), always use a light theme in your text editor and everywhere else. Dark themes are a sham.
-- [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
-- [ ] Prevent auditive noise distraction while typing by having a silent keyboard
-- [ ] Prevent [Repetitive stain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
-- [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
-- [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
-- [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
-- [ ] Prevent auditive noise from distracting you by using Noise cancelling headphones
 
 ## Get Peer reviews
 - [ ] [
