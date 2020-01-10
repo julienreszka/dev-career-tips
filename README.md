@@ -130,6 +130,12 @@
 )
 
 - [ ] [
+  Prevent someone from pretending they're you buy buying and own a domain name with `firstnamelastname.com` where you put links to profiles of yourself that you recognize on the web
+](
+  https://domains.google.com
+)
+
+- [ ] [
   Select data with Regular Expressions, REGEX (21 min)
 ](
   https://www.youtube.com/watch?v=rhzKDrUiJVk
