@@ -75,21 +75,21 @@
 ## Measure your desired effort
 
 - [ ] [
-  Stay focused by measuring how much time you spend working on a project with Wakatime
+  Define Desirable Outcomes with Milestones 
+](
+  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
+)
+
+- [ ] [
+  Stay Focused by measuring how much time you spend working on a project with Wakatime
 ](
   https://wakatime.com/
 )
 
 - [ ] [
-  Stay fit by measuring how much time you spend running, or cycling
+  Stay Fit by measuring how much time you spend running, or cycling
 ](
   https://www.strava.com/
-)
-
-- [ ] [
-  Define desirable outcomes with milestones 
-](
-  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
 )
 
 ## Prevent undesired effort
