@@ -72,6 +72,12 @@
   https://thenounproject.com/
 )
 
+- [ ] [
+  Connect apps and automate workflows with Zapier
+](
+  https://zapier.com/home
+)
+
 ## Measure your desired effort
 
 - [ ] [
