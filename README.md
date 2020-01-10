@@ -193,3 +193,9 @@
   https://www.cypress.io/
 )
 
+- [ ] [
+  Prevent type errors by compiling typescript to javascript
+](
+  https://www.typescriptlang.org/
+)
+
