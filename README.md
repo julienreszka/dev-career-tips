@@ -1,5 +1,31 @@
 # dev-career-tips
 
+## Setup your development environment
+
+- [ ] [
+  Install Visual Studio Code (10 min)
+](
+  https://code.visualstudio.com/download
+)
+
+- [ ] [
+  Install Node.js (20 min)
+](
+  https://nodejs.org/en/
+)
+
+- [ ] [
+  Backup your git repositories online on Github (10 min)
+](
+  https://github.com/
+)
+
+- [ ] [
+  Manage your github local repositories with Github Desktop (10 min)
+](
+  https://desktop.github.com/
+)
+
 ## Measure your desired effort
 
 - [ ] [
@@ -58,31 +84,7 @@
   https://help.github.com/en
 )
 
-## Setup your development environment
 
-- [ ] [
-  Install Visual Studio Code (10 min)
-](
-  https://code.visualstudio.com/download
-)
-
-- [ ] [
-  Install Node.js (20 min)
-](
-  https://nodejs.org/en/
-)
-
-- [ ] [
-  Backup your git repositories online on Github (10 min)
-](
-  https://github.com/
-)
-
-- [ ] [
-  Manage your github local repositories with Github Desktop (10 min)
-](
-  https://desktop.github.com/
-)
 
 ## Start projects
 
