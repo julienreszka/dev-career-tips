@@ -87,7 +87,6 @@
 )
 
 - [ ] Define desirable outcomes with milestones 
-- [ ] Order your desirable outcomes by keeping your roadmap up to date
 
 ## Reduce your undesired effort
 
