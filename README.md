@@ -86,19 +86,23 @@
   https://www.strava.com/
 )
 
-- [ ] Define desirable outcomes with milestones 
+- [ ] [
+  Define desirable outcomes with milestones 
+](
+  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
+)
 
-## Reduce your undesired effort
+## Prevent undesired effort
 
-- [ ] Stay awake, always get proper lighting for where you work
-- [ ] Save your eyes, always use a light theme in your text editor and everywhere else. Dark themes are a sham.
-- [ ] Prevent your working memory from going to waste switching windows by having one or two large monitors
-- [ ] Stay focused while typing by having a proper keyboard
-- [ ] Prevent issues with your arms and hand by buying a vertical mouse
+- [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue), always get proper lighting in your working environment
+- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain), always use a light theme in your text editor and everywhere else. Dark themes are a sham.
+- [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
+- [ ] Prevent auditive noise distraction while typing by having a silent keyboard
+- [ ] Prevent [Repetitive stain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
 - [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
-- [ ] Prevent multitasking by clearing your environment from distractions 
-- [ ] Prevent people from interrupting your work by walling and door locking your environment
-- [ ] Prevent sounds from distracting you by using Noise cancelling headphones
+- [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
+- [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
+- [ ] Prevent auditive noise from distracting you by using Noise cancelling headphones
 
 ## Get Peer reviews
 - [ ] [
