@@ -86,6 +86,8 @@
   https://www.strava.com/
 )
 
+- [ ] Define desirable outcomes with milestones and keep your roadmap up to date
+
 ## Reduce your effort
 
 - [ ] Stay awake, always get proper lighting for where you work
