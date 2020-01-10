@@ -172,6 +172,12 @@
 )
 
 - [ ] [
+  Challenge your Knowledge of REGEX with this interactive tutorial (180 min)
+](
+  https://regexone.com/
+)
+
+- [ ] [
   Have a basic interaction with the file system thanks to Bash (60 min)
 ](
   https://learnxinyminutes.com/docs/bash/
