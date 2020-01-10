@@ -142,7 +142,7 @@
 
 ## Get Peer reviews
 - [ ] [
-  Review your own code through Rubber duck debugging before wasting precious developer attention
+  Review your own code through Rubber duck debugging before asking for precious developer attention
 ](
   https://en.wikipedia.org/wiki/Rubber_duck_debugging
 )
