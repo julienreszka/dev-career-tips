@@ -91,6 +91,12 @@
 )
 
 - [ ] [
+  Evaluate the confidence that you should put in your code thanks to Code Coverage
+](
+  https://en.wikipedia.org/wiki/Code_coverage
+)
+
+- [ ] [
   Get used to open source version control by Learning to use Github
 ](
   https://help.github.com/en
