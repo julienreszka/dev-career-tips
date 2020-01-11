@@ -307,7 +307,7 @@
 )
 
 - [ ] [
-  Display lightweight pictures by using SVG
+  Display lightweight pictures by using SVG (120 min)
 ](
   https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 )
