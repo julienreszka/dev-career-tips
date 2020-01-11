@@ -300,7 +300,7 @@
 
 ## Get paid for your work
 
-- [ ] Auditing (Plenty of job opportunities)
+- [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
   - Performance
   - Accessibility
   - SEO
