@@ -234,6 +234,12 @@
 )
 
 - [ ] [
+  Allow access to your server ressources from a different origin (20 min)
+](
+  https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+)
+
+- [ ] [
   Get data from webpages automatically by scraping with JavaScript (9 min)
 ](
   https://youtu.be/TzZ3YOUhCxo
