@@ -233,3 +233,8 @@
   https://www.typescriptlang.org/
 )
 
+- [ ] [
+  Get data from webpages automatically by scraping with JavaScript (9 min)
+](
+  https://youtu.be/TzZ3YOUhCxo
+)
