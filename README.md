@@ -321,8 +321,8 @@
   https://en.wikipedia.org/wiki/Penetration_test
 ) (Expensive in case of a fuck up)
 
-- [ ] [
-  Working for a company by finding a job on stackoverflow.com/jobs
+- [ ] 
+  Working for a company by finding a job on [stackoverflow.com/jobs
 ](
   https://stackoverflow.com/jobs
 )
