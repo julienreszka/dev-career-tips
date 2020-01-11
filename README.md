@@ -291,3 +291,9 @@
 ](
   https://vuejs.org/v2/guide/
 )
+
+- [ ] [
+  Accelerate the development of your UI by using ready-made Vue.js components in the style of Material design thanks to Vuetify
+](
+  https://vuetifyjs.com/en/getting-started/quick-start
+)
