@@ -300,15 +300,15 @@
 
 ## Get paid for your work
 
-- [ ] Auditing
+- [ ] Auditing (Plenty of job opportunities)
   - Performance
   - Accessibility
   - SEO
   
-- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting
+- [ ] [Bug bounty (Rare job opportunities)](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting
  
 - [ ] [
-  Pentesting
+  Pentesting (Expensive in case of a fuck up)
 ](
   https://en.wikipedia.org/wiki/Penetration_test
 )
