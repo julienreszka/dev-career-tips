@@ -305,7 +305,7 @@
   - Accessibility
   - SEO
   
-- [ ] Bug bounty hunting
+- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting
  
 - [ ] [
   Pentesting
