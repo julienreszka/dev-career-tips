@@ -2,6 +2,10 @@
 
 ## Setup your development environment
 
+- [ ] Setup your development environment automatically by learning to use
+  - [Brew](https://brew.sh/index_fr) on mac
+  - [Chocolatey](https://chocolatey.org/) on windows
+
 - [ ] [
   Write your code in a comfortable environment like Visual Studio Code (10 min)
 ](
@@ -13,6 +17,8 @@
 ](
   https://nodejs.org/en/
 )
+
+
 
 - [ ] [
   Backup your git repositories online on Github (10 min)
