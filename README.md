@@ -244,3 +244,21 @@
 ](
   https://youtu.be/TzZ3YOUhCxo
 )
+
+- [ ] [
+  Create an API by using express.js with node.js
+](
+  https://expressjs.com/fr/starter/installing.html
+)
+
+- [ ] [
+  Secure your API with passport.js
+](
+  http://www.passportjs.org/
+)
+
+- [ ] [
+  Create, Read, Update, Delete (CRUD) data by learning to use node.js in conjuction with mysql or and mongodb (240 min)
+](
+  https://www.w3schools.com/nodejs/default.asp
+)
