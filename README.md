@@ -282,4 +282,8 @@
   https://socket.io/get-started/chat/
 )
 
-
+- [ ] [
+  Build user interfaces with a framework like Vue.js (240 min)
+](
+  https://vuejs.org/v2/guide/
+)
