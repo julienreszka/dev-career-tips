@@ -306,6 +306,12 @@
   https://vuetifyjs.com/en/getting-started/quick-start
 )
 
+- [ ] [
+  Display lightweight pictures by using SVG
+](
+  https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+)
+
 ## Get paid for your work
 
 - [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
