@@ -297,3 +297,13 @@
 ](
   https://vuetifyjs.com/en/getting-started/quick-start
 )
+
+## Get paid for your work
+
+- [ ] Auditing
+  - Performance
+  - Accessibility
+  - SEO
+  
+- [ ] Bug bounty hunting
+  - Security testing
