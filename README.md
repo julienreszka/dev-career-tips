@@ -141,6 +141,13 @@
 
 
 ## Get Peer reviews
+
+- [ ] [
+  Learn what is important in a website by auditing websites with lighthouse
+](
+  https://developers.google.com/web/tools/lighthouse
+)
+
 - [ ] [
   Review your own code through Rubber duck debugging before asking for precious developer attention
 ](
@@ -264,7 +271,9 @@
 )
 
 - [ ] [
-  Create a real time chat system by using socket.io
+  Create a real time chat system by using socket.io (60 min)
 ](
   https://socket.io/get-started/chat/
 )
+
+
