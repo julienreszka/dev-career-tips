@@ -59,7 +59,9 @@
 ## Prevent undesired effort
 
 - [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue), always get proper lighting in your working environment
-- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain), always use a light theme in your text editor and everywhere else. Dark themes are a sham.
+- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain), always use a light theme in your text editor and everywhere else. [Dark themes are a sham](
+  https://lite.mst.edu/media/research/ctel/documents/LITE-2003-04.pdf
+).
 - [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
 - [ ] Prevent auditive noise distraction while typing by having a silent keyboard
 - [ ] Prevent [Repetitive stain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
