@@ -306,4 +306,9 @@
   - SEO
   
 - [ ] Bug bounty hunting
-  - Security testing
+ 
+- [ ] [
+  Pentesting
+](
+  https://en.wikipedia.org/wiki/Penetration_test
+)
