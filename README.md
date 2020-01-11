@@ -3,13 +3,13 @@
 ## Setup your development environment
 
 - [ ] [
-  Install Visual Studio Code (10 min)
+  Write your code in a comfortable environment like Visual Studio Code (10 min)
 ](
   https://code.visualstudio.com/download
 )
 
 - [ ] [
-  Install Node.js (20 min)
+  Write javascript server side code with Node.js (20 min)
 ](
   https://nodejs.org/en/
 )
@@ -79,7 +79,7 @@
 )
 
 - [ ] [
-  Learn to use Github
+  Get used to open source version control by Learning to use Github
 ](
   https://help.github.com/en
 )
