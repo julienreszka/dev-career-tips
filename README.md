@@ -7,6 +7,12 @@
   - [Chocolatey](https://chocolatey.org/) on windows
 
 - [ ] [
+  Control the versions of your source code with Git
+](
+  https://git-scm.com/
+)
+
+- [ ] [
   Write your code in a comfortable environment like Visual Studio Code (10 min)
 ](
   https://code.visualstudio.com/download
@@ -17,8 +23,6 @@
 ](
   https://nodejs.org/en/
 )
-
-
 
 - [ ] [
   Backup your git repositories online on Github (10 min)
