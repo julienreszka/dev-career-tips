@@ -305,10 +305,10 @@
   - Accessibility
   - SEO
   
-- [ ] [Bug bounty (Rare job opportunities)](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting
+- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting (Rare job opportunities)
  
 - [ ] [
-  Pentesting (Expensive in case of a fuck up)
+  Pentesting
 ](
   https://en.wikipedia.org/wiki/Penetration_test
-)
+) (Expensive in case of a fuck up)
