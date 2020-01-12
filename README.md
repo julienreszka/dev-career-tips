@@ -22,41 +22,7 @@ You should test everything yourself. Don't always trust the docs.
 
 Clone this list on your computer and start checking the boxes.
 
-## Setup your development environment
 
-- [ ] Setup your development environment automatically by learning to use
-  - [Brew](https://brew.sh/index_fr) on mac
-  - [Chocolatey](https://chocolatey.org/) on windows
-
-- [ ] [
-  Control the versions of your source code with Git
-](
-  https://git-scm.com/
-)
-
-- [ ] [
-  Write your code in a comfortable environment like Visual Studio Code (10 min)
-](
-  https://code.visualstudio.com/download
-)
-
-- [ ] [
-  Write javascript server side code with Node.js (20 min)
-](
-  https://nodejs.org/en/
-)
-
-- [ ] [
-  Backup your git repositories online on Github (10 min)
-](
-  https://github.com/
-)
-
-- [ ] [
-  Manage your github local repositories with Github Desktop (10 min)
-](
-  https://desktop.github.com/
-)
 
 ## Measure your desired effort
 
@@ -175,11 +141,44 @@ Put your energy in the direction of something with a greater impact.
   https://youtu.be/hnRlHot-XCU
 )
 
+
+## Setup your development environment
+
+- [ ] Setup your development environment automatically by learning to use
+  - [Brew](https://brew.sh/index_fr) on mac
+  - [Chocolatey](https://chocolatey.org/) on windows
+
 - [ ] [
-  Publish a first website with Github pages (20 min)
+  Control the versions of your source code with Git
 ](
-  https://pages.github.com/
+  https://git-scm.com/
 )
+
+- [ ] [
+  Write your code in a comfortable environment like Visual Studio Code (10 min)
+](
+  https://code.visualstudio.com/download
+)
+
+- [ ] [
+  Write javascript server side code with Node.js (20 min)
+](
+  https://nodejs.org/en/
+)
+
+- [ ] [
+  Backup your git repositories online on Github (10 min)
+](
+  https://github.com/
+)
+
+- [ ] [
+  Manage your github local repositories with Github Desktop (10 min)
+](
+  https://desktop.github.com/
+)
+
+
 
 
 
@@ -268,6 +267,12 @@ Put your energy in the direction of something with a greater impact.
   Allow access to your server ressources from a different origin (20 min)
 ](
   https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+)
+
+- [ ] [
+  Publish a first website with Github pages (20 min)
+](
+  https://pages.github.com/
 )
 
 ## Put your fundamental knowledge to action
