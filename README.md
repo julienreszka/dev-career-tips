@@ -1,5 +1,7 @@
 # dev-career-tips
 
+Check whether you feel confident understanding each point. The list is ordered to help you gain in confidance. If you feel confident with one point you should feel more confident with the next point.
+
 ## Get paid for your work
 
 - [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
