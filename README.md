@@ -241,13 +241,13 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 )
 
-## Put your fundamental knowledge to action
-
 - [ ] [
   Allow access to your server ressources from a different origin (20 min)
 ](
   https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
 )
+
+## Put your fundamental knowledge to action
 
 - [ ] [
   Get data from webpages automatically by scraping with JavaScript (9 min)
