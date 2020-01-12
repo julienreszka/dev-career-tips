@@ -8,7 +8,7 @@ People often ask me what they need to know to fit. This list was designed to sol
 
 Check whether you feel confident understanding each point. The list is ordered to help you gain in confidence. If you feel confident with one point you should feel more confident with the next point.
 
-If you are new you should try to understand how each point fits with the other points, the understanding of how all points fit toghether makes the real difference between a newbie and an experience developer.
+If you are new you should try to understand how each point fits with the other points, the understanding of how all points fit together makes the real difference between a newbie and an experience developer.
 
 Experienced developers are confident with each point, well, they are confident that they will be able to go back to the documentation and have intuition to understand it quickly and know how to put it to use. 
 
