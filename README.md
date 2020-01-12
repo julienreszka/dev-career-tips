@@ -2,27 +2,6 @@
 
 Check whether you feel confident understanding each point. The list is ordered to help you gain in confidence. If you feel confident with one point you should feel more confident with the next point.
 
-## Get paid for your work
-
-- [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
-  - Performance
-  - Accessibility
-  - SEO
-  
-- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting (Rare job opportunities)
- 
-- [ ] [
-  Pentesting
-](
-  https://en.wikipedia.org/wiki/Penetration_test
-) (Expensive in case of a fuck up)
-
-- [ ] 
-  Working for a company by finding a job on [stackoverflow.com/jobs
-](
-  https://stackoverflow.com/jobs
-)
-
 ## Setup your development environment
 
 - [ ] Setup your development environment automatically by learning to use
@@ -336,4 +315,24 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 )
 
+## Get paid for your work
+
+- [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
+  - Performance
+  - Accessibility
+  - SEO
+  
+- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting (Rare job opportunities)
+ 
+- [ ] [
+  Pentesting
+](
+  https://en.wikipedia.org/wiki/Penetration_test
+) (Expensive in case of a fuck up)
+
+- [ ] 
+  Working for a company by finding a job on [stackoverflow.com/jobs
+](
+  https://stackoverflow.com/jobs
+)
 
