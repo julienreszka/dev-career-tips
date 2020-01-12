@@ -235,6 +235,12 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://youtu.be/JlgLDfINXvY
 )
 
+- [ ] [
+  Display lightweight pictures by using SVG (120 min)
+](
+  https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+)
+
 ## Move From code monkey status to engineer
 
 - [ ] [
@@ -311,11 +317,7 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://vuetifyjs.com/en/getting-started/quick-start
 )
 
-- [ ] [
-  Display lightweight pictures by using SVG (120 min)
-](
-  https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
-)
+
 
 ## Get paid for your work
 
