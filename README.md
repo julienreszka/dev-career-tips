@@ -69,6 +69,12 @@ Put your energy in the direction of something with a greater impact.
 )
 
 - [ ] [
+  Get used to the `man`
+](
+  https://en.wikipedia.org/wiki/Man_page
+)
+
+- [ ] [
   Write feature specifications with Bahavior Driven Development (BDD) (60 min)
 ](
   https://en.wikipedia.org/wiki/Behavior-driven_development
