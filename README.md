@@ -6,7 +6,7 @@ Check whether you feel confident understanding each point. The list is ordered t
 
 If you are new you should try to understand how each point fits with the other points, the understanding of how all points fit toghether makes the real difference between a newbie and an experience developer.
 
-Experience developers are confident with each point, well, they are confident that they will be able to go back to the documentation and have intuition to understand it quickly and know how to put it to use. 
+Experienced developers are confident with each point, well, they are confident that they will be able to go back to the documentation and have intuition to understand it quickly and know how to put it to use. 
 
 It is expected from you that you will research the subjects in greater depth. 
 You should not expect this list to be exhaustive. 
