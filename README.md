@@ -241,33 +241,7 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 )
 
-## Move From code monkey status to engineer
-
-- [ ] [
-  Write your tests with Jest
-](
-  https://jestjs.io/docs/en/getting-started
-)
-
-- [ ] Write your tests with mocha and chai
-
-- [ ] [
-  Automate your browser with Puppeteer
-](
-  https://github.com/puppeteer/puppeteer
-)
-
-- [ ] [
-  Write end to end (E2E) tests with Cypress
-](
-  https://www.cypress.io/
-)
-
-- [ ] [
-  Prevent type errors by compiling typescript to javascript
-](
-  https://www.typescriptlang.org/
-)
+## Put your fundamental knowledge to action
 
 - [ ] [
   Allow access to your server ressources from a different origin (20 min)
@@ -317,7 +291,33 @@ Check whether you feel confident understanding each point. The list is ordered t
   https://vuetifyjs.com/en/getting-started/quick-start
 )
 
+## Move From code monkey status to engineer
 
+- [ ] [
+  Write your tests with Jest
+](
+  https://jestjs.io/docs/en/getting-started
+)
+
+- [ ] Write your tests with mocha and chai
+
+- [ ] [
+  Automate your browser with Puppeteer
+](
+  https://github.com/puppeteer/puppeteer
+)
+
+- [ ] [
+  Write end to end (E2E) tests with Cypress
+](
+  https://www.cypress.io/
+)
+
+- [ ] [
+  Prevent type errors by compiling typescript to javascript
+](
+  https://www.typescriptlang.org/
+)
 
 ## Get paid for your work
 
