@@ -20,6 +20,8 @@ Google is your friend.
 
 You should test everything yourself. Don't always trust the docs.
 
+Clone this list on your computer and start checking the boxes.
+
 ## Setup your development environment
 
 - [ ] Setup your development environment automatically by learning to use
