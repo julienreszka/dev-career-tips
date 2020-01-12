@@ -20,9 +20,7 @@ Google is your friend.
 
 You should test everything yourself. Don't always trust the docs.
 
-Clone this list on your computer and start checking the boxes.
-
-
+[Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this list on your computer and start checking the boxes.
 
 ## Measure your desired effort
 
