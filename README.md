@@ -79,7 +79,7 @@
 
 ## Prevent undesired effort
 
-- [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by working on a powerfull computer
+- [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by working on a powerful computer
 - [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by geting a proper lighting in your working environment
 - [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else. [Dark themes are a sham](
   https://lite.mst.edu/media/research/ctel/documents/LITE-2003-04.pdf
