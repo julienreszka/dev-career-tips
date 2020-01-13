@@ -165,12 +165,6 @@ Put your energy in the direction of something with a greater impact.
 )
 
 - [ ] [
-  Write javascript server side code with Node.js (20 min)
-](
-  https://nodejs.org/en/
-)
-
-- [ ] [
   Backup your git repositories online on Github (10 min)
 ](
   https://github.com/
@@ -182,8 +176,11 @@ Put your energy in the direction of something with a greater impact.
   https://desktop.github.com/
 )
 
-
-
+- [ ] [
+  Write javascript server side code with Node.js (20 min)
+](
+  https://nodejs.org/en/
+)
 
 
 
