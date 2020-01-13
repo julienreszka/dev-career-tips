@@ -226,7 +226,7 @@ Put your energy in the direction of something with a greater impact.
 )
 
 - [ ] [
-  Challenge your Knowledge of REGEX with this interactive tutorial (180 min)
+  Challenge your Knowledge of REGEX with this interactive tutorial (60 min)
 ](
   https://regexone.com/
 )
