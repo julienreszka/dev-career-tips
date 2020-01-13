@@ -148,6 +148,25 @@ Put your energy in the direction of something with a greater impact.
 
 ## Setup your development environment
 
+- [ ] [
+  Backup your git repositories online on Github (10 min)
+](
+  https://github.com/
+)
+
+- [ ] [
+  Write your code in a comfortable environment like Visual Studio Code (10 min)
+](
+  https://code.visualstudio.com/download
+)
+
+- [ ] [
+  Manage your github local repositories with Github Desktop (10 min)
+](
+  https://desktop.github.com/
+)
+  - [Nice tutorial to learn how to use GitHub Desktop](https://www.youtube.com/watch?v=ci3W1T88mzw)
+
 - [ ] Setup your development environment automatically by learning to use
   - [Brew](https://brew.sh/index_fr) on mac
   - [Chocolatey](https://chocolatey.org/) on windows
@@ -159,31 +178,10 @@ Put your energy in the direction of something with a greater impact.
 )
 
 - [ ] [
-  Write your code in a comfortable environment like Visual Studio Code (10 min)
-](
-  https://code.visualstudio.com/download
-)
-
-- [ ] [
   Write javascript server side code with Node.js (20 min)
 ](
   https://nodejs.org/en/
 )
-
-- [ ] [
-  Backup your git repositories online on Github (10 min)
-](
-  https://github.com/
-)
-
-- [ ] [
-  Manage your github local repositories with Github Desktop (10 min)
-](
-  https://desktop.github.com/
-)
-
-
-
 
 
 
@@ -226,7 +224,7 @@ Put your energy in the direction of something with a greater impact.
 )
 
 - [ ] [
-  Challenge your Knowledge of REGEX with this interactive tutorial (180 min)
+  Challenge your Knowledge of REGEX with this interactive tutorial (60 min)
 ](
   https://regexone.com/
 )
