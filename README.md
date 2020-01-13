@@ -117,7 +117,6 @@ Put your energy in the direction of something with a greater impact.
 
 - [ ] [
   Prototype your forms with Typeform
-
 ](
   https://www.typeform.com/
 )
