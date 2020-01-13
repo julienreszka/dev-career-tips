@@ -30,7 +30,7 @@
 ## Start projects
 
 - [ ] [
-  Create a Github account (10 min)
+  Create a Github account (11 min)
 ](
   https://github.com/
 )
