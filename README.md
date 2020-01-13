@@ -153,7 +153,13 @@ Put your energy in the direction of something with a greater impact.
 ](
   https://github.com/
 )
-  
+
+- [ ] [
+  Write your code in a comfortable environment like Visual Studio Code (10 min)
+](
+  https://code.visualstudio.com/download
+)
+
 - [ ] [
   Manage your github local repositories with Github Desktop (10 min)
 ](
@@ -169,12 +175,6 @@ Put your energy in the direction of something with a greater impact.
   Control the versions of your source code with Git
 ](
   https://git-scm.com/
-)
-
-- [ ] [
-  Write your code in a comfortable environment like Visual Studio Code (10 min)
-](
-  https://code.visualstudio.com/download
 )
 
 - [ ] [
