@@ -358,12 +358,12 @@ Put your energy in the direction of something with a greater impact.
 
 ## Get paid for your work
 
-- [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving (Plenty of job opportunities)
+- [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving 
   - Performance
   - Accessibility
   - SEO
   
-- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting (Rare job opportunities)
+- [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting
   - [
     HackerOne
   ](
@@ -374,7 +374,7 @@ Put your energy in the direction of something with a greater impact.
   Pentesting
 ](
   https://en.wikipedia.org/wiki/Penetration_test
-) (Expensive in case of a fuck up)
+)
 
 - [ ] Advertising Products
   - [Product Advertising API with Amazon Associates](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/becomingDev.html)
