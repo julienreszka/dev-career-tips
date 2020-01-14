@@ -57,6 +57,7 @@ Put your energy in the direction of something with a greater impact.
   - in Visual Studio Code `settings.json` edit those line : `"workbench.colorTheme": "Default Light+","workbench.colorCustomizations": {
     "editor.background": "#e0ffec",
   },`
+  - [We evolved to detect predators in greenery](https://www.redsharknews.com/technology/item/4741-human-vision-and-why-the-colour-green-is-so-important)
 - [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
 - [ ] Prevent auditive noise distraction while typing by having a silent keyboard
 - [ ] Prevent [Repetitive strain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
