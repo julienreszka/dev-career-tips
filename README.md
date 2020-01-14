@@ -54,7 +54,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by geting a proper lighting in your working environment
 - [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else.
   - [Dark mode is bad for your eyes](https://youtu.be/bCaFRN3aaP8)
-  - in Visual Studio Cote `settings.json` edit those line : `"workbench.colorTheme": "Default Light+","workbench.colorCustomizations": {
+  - in Visual Studio Code `settings.json` edit those line : `"workbench.colorTheme": "Default Light+","workbench.colorCustomizations": {
     "editor.background": "#e0ffec",
   },`
 - [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
