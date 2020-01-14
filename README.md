@@ -47,6 +47,7 @@ You should test everything yourself. Don't always trust the docs.
 You will need to spend a lot of time focused every day, don't let your energy go to waste, control your environment.
 Put your energy in the direction of something with a greater impact.
 
+- [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by having a high speed network connection to internet
 - [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by working on a powerful computer that you own or that you can rent 
   - [
     Shadow allows you to stream a fully featured gaming PC to all your devices. Whether you're on your old PC, Mac, smartphone or TV.
