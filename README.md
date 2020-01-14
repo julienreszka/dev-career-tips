@@ -25,7 +25,7 @@ You should test everything yourself. Don't always trust the docs.
 ## Measure your desired effort
 
 - [ ] [
-  Stay focused by defining Desirable Outcomes with Milestones 
+  Keep growing by defining Desirable Outcomes with Milestones 
 ](
   https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
 )
