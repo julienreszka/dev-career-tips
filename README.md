@@ -64,6 +64,11 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
 - [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
 - [ ] Prevent auditive noise from distracting you by using Noise cancelling headphones
+  - [
+    Parrot Zik 3
+  ](
+    https://www.amazon.fr/gp/product/B01FMGB4KG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01FMGB4KG&linkCode=as2&tag=julienreszka-21&linkId=db217cde116a987915947d061c126f3e
+  )
 
 ## Write living documentations
 
