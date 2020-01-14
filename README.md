@@ -55,6 +55,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
 - [ ] Prevent auditive noise distraction while typing by having a silent keyboard
 - [ ] Prevent [Repetitive strain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
+  - [Anker 2.4G Wireless Vertical Ergonomic Optical Mouse, 800 / 1200 /1600 DPI, 5 Buttons for Laptop, Desktop, PC, Macbook - Black](https://www.amazon.fr/gp/product/B00BIFNTMC/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BIFNTMC&linkCode=as2&tag=julienreszka-21&linkId=8d0a6e9cd9c415d691698a57b416a542)
 - [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
 - [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
 - [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
