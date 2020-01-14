@@ -374,3 +374,6 @@ Put your energy in the direction of something with a greater impact.
   https://stackoverflow.com/jobs
 )
 
+- [ ] Advertising 
+  - [Product Advertising API with Amazon Associates](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/becomingDev.html)
+
