@@ -361,6 +361,11 @@ Put your energy in the direction of something with a greater impact.
   - SEO
   
 - [ ] [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) hunting (Rare job opportunities)
+  - [
+    HackerOne
+  ](
+    https://www.hackerone.com/fr
+  )
  
 - [ ] [
   Pentesting
@@ -368,12 +373,16 @@ Put your energy in the direction of something with a greater impact.
   https://en.wikipedia.org/wiki/Penetration_test
 ) (Expensive in case of a fuck up)
 
-- [ ] 
-  Working for a company by finding a job on [stackoverflow.com/jobs
-](
-  https://stackoverflow.com/jobs
-)
-
-- [ ] Advertising 
+- [ ] Advertising Products
   - [Product Advertising API with Amazon Associates](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/becomingDev.html)
+
+- [ ] 
+  Working for a company by finding a job
+  - [
+     stackoverflow.com/jobs
+  ](
+    https://stackoverflow.com/jobs
+  )
+
+
 
