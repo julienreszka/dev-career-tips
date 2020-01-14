@@ -52,9 +52,8 @@ Put your energy in the direction of something with a greater impact.
     Shadow allows you to stream a fully featured gaming PC to all your devices. Whether you're on your old PC, Mac, smartphone or TV.
   ](https://shadow.tech/)
 - [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by geting a proper lighting in your working environment
-- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else. [Dark themes are a sham](
-  https://lite.mst.edu/media/research/ctel/documents/LITE-2003-04.pdf
-).
+- [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else.
+  - [Dark mode is bad for your eyes](https://youtu.be/bCaFRN3aaP8)
 - [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
 - [ ] Prevent auditive noise distraction while typing by having a silent keyboard
 - [ ] Prevent [Repetitive strain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
