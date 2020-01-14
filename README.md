@@ -333,8 +333,11 @@ Put your energy in the direction of something with a greater impact.
   https://jestjs.io/docs/en/getting-started
 )
 
-- [ ] Write your tests with mocha and chai
-
+- [ ] [
+  Write your tests with mocha and chai
+](
+  https://mherman.org/blog/testing-node-js-with-mocha-and-chai/
+)
 - [ ] [
   Automate your browser with Puppeteer
 ](
