@@ -53,7 +53,7 @@ Put your energy in the direction of something with a greater impact.
   - [
     Shadow allows you to stream a fully featured gaming PC to all your devices. Whether you're on your old PC, Mac, smartphone or TV.
   ](https://shadow.tech/)
-- [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by geting a proper lighting in your working environment
+- [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by getting a proper lighting in your working environment
 - [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else.
   - [Dark mode is bad for your eyes](https://youtu.be/bCaFRN3aaP8)
   - in Visual Studio Code `settings.json` edit those line : `"workbench.colorTheme": "Default Light+","workbench.colorCustomizations": {
