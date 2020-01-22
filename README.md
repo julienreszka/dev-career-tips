@@ -88,7 +88,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] [
   Get used to the `man`
 ](
-  https://en.wikipedia.org/wiki/Man_page
+  https://tldr.sh/
 )
 
 - [ ] [
