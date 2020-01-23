@@ -340,6 +340,12 @@ Put your energy in the direction of something with a greater impact.
 
 ## Move From code monkey status to engineer
 
+[
+  Comparison of monkey and human brains reveals the 'unique properties' of human attention
+](
+  https://www.theverge.com/2015/7/13/8951797/human-brain-attention-macaques-unique
+)
+
 - [ ] [
   Write your tests with Jest
 ](
