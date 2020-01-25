@@ -25,9 +25,57 @@ You should test everything yourself. Don't always trust the docs.
 ## Learn project management
 
 - [ ] [
+  Learning by growing success
+](
+  https://blog.julienreszka.com/2019/09/economics-of-user-experience-of-using.html
+)
+
+- [ ] [
   Keep growing by defining Desirable Outcomes with Milestones 
 ](
   https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
+)
+
+- [ ] [
+  Coping with rejection
+](
+  https://blog.julienreszka.com/2019/07/coping-with-likelihood-to-get-rejected.html
+)
+
+- [ ] [
+  Getting paid upfront
+](
+  https://blog.julienreszka.com/2020/01/turns-out-people-shouldnt-do-any-work.html
+)
+
+- [ ] [
+  Correctly estimating deadlines
+](
+  https://blog.julienreszka.com/2020/01/why-assuming-that-achieving-goal-will.html
+)
+
+- [ ] [
+  Staying professional
+](
+  https://blog.julienreszka.com/2019/12/the-difference-between-professional-and.html
+)
+
+- [ ] [
+  Understanding the difference between a mission and a goal
+](
+  https://blog.julienreszka.com/2019/12/the-difference-between-mission-and-goal.html
+)
+
+- [ ] [
+  Understanding the economics of user experience 
+](
+  https://blog.julienreszka.com/2019/09/economics-of-user-experience-of-using.html
+)
+
+- [ ] [
+  Not taking shortcuts
+](
+  https://blog.julienreszka.com/2020/01/chosing-to-do-things-not-because-they.html
 )
 
 ## Prevent undesired effort
