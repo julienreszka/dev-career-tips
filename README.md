@@ -38,7 +38,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent yourself from [burning out](https://en.wikipedia.org/wiki/Occupational_burnout) by measuring how much time you are spending programming on a project in your text editor with [Wakatime](
   https://wakatime.com/
 )
-- [ ] Prevent yourself from getting out of shape by measuring how much physical activity you're doing with [Strava](
+- [ ] Prevent yourself from getting out of shape, keeping your [physical fitness](https://en.wikipedia.org/wiki/Physical_fitness) by measuring how much physical activity you're doing with [Strava](
   https://www.strava.com/
 )
 - [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by having a high speed network connection to internet
