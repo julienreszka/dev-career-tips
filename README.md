@@ -63,7 +63,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent wasted keystrokes by learning all the shortcuts of your text editor
   - [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 - [ ] Prevent [multitasking](https://ekmillerlab.mit.edu/2016/12/08/earl-miller-in-the-daily-mail-uk-why-multitasking-is-bad-for-your-brain/) by clearing your environment from interactive distractions 
-- [ ] Prevent people from interrupting your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
+- [ ] Prevent people from [interrupting](https://en.wikipedia.org/wiki/Interruption_science) your work [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) by walling and door locking your environment
 - [ ] Prevent auditive noise from distracting you by using Noise cancelling headphones
   - [
     Parrot Zik 3
