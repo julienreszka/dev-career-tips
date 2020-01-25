@@ -22,7 +22,7 @@ You should test everything yourself. Don't always trust the docs.
 
 [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this list on your computer and start checking the boxes.
 
-## Measure your desired effort
+## Learn project management
 
 - [ ] [
   Keep growing by defining Desirable Outcomes with Milestones 
@@ -30,23 +30,17 @@ You should test everything yourself. Don't always trust the docs.
   https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
 )
 
-- [ ] [
-  Stay Focused by measuring how much time you spend working on a project with Wakatime
-](
-  https://wakatime.com/
-)
-
-- [ ] [
-  Stay Fit by measuring how much time you spend running, or cycling
-](
-  https://www.strava.com/
-)
-
 ## Prevent undesired effort
 
 You will need to spend a lot of time focused every day, don't let your energy go to waste, control your environment.
 Put your energy in the direction of something with a greater impact.
 
+- [ ] Prevent yourself from burning out by measuring how much time you are spending programming on a project in your text editor with [Wakatime](
+  https://wakatime.com/
+)
+- [ ] Prevent yourself from getting out of shape by measuring how much physical activity you're doing with [Strava](
+  https://www.strava.com/
+)
 - [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by having a high speed network connection to internet
   - [Test your internet speed with Google](https://support.google.com/websearch/answer/6283840)
   - Own a backup network access independent of your main network access
