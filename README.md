@@ -35,7 +35,7 @@ You should test everything yourself. Don't always trust the docs.
 You will need to spend a lot of time focused every day, don't let your energy go to waste, control your environment.
 Put your energy in the direction of something with a greater impact.
 
-- [ ] Prevent yourself from burning out by measuring how much time you are spending programming on a project in your text editor with [Wakatime](
+- [ ] Prevent yourself from [burning out](https://en.wikipedia.org/wiki/Occupational_burnout) by measuring how much time you are spending programming on a project in your text editor with [Wakatime](
   https://wakatime.com/
 )
 - [ ] Prevent yourself from getting out of shape by measuring how much physical activity you're doing with [Strava](
