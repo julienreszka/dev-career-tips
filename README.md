@@ -73,7 +73,7 @@ You should test everything yourself. Don't always trust the docs.
 )
 
 - [ ] [
-  Not taking shortcuts
+  Doing the hard things instead of taking shortcuts
 ](
   https://blog.julienreszka.com/2020/01/chosing-to-do-things-not-because-they.html
 )
