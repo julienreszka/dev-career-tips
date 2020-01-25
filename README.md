@@ -31,7 +31,7 @@ You should test everything yourself. Don't always trust the docs.
 )
 
 - [ ] [
-  Keep growing by defining Desirable Outcomes with Milestones 
+  Growing by defining Desirable Outcomes with Milestones 
 ](
   https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
 )
