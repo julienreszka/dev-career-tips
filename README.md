@@ -78,6 +78,12 @@ You should test everything yourself. Don't always trust the docs.
   https://blog.julienreszka.com/2020/01/chosing-to-do-things-not-because-they.html
 )
 
+- [ ] [
+  Pushing people who disagree with reality to thee limits of their resaonning
+](
+  https://blog.julienreszka.com/2019/12/what-should-you-do-with-people-who.html
+)
+
 ## Prevent undesired effort
 
 You will need to spend a lot of time focused every day, don't let your energy go to waste, control your environment.
