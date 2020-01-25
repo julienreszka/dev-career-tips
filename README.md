@@ -79,7 +79,7 @@ You should test everything yourself. Don't always trust the docs.
 )
 
 - [ ] [
-  Pushing people who disagree with reality to the limits of their resaonning
+  Pushing people who disagree with reality to the limits of their reasoning
 ](
   https://blog.julienreszka.com/2019/12/what-should-you-do-with-people-who.html
 )
