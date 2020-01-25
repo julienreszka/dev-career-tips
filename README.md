@@ -232,8 +232,6 @@ Put your energy in the direction of something with a greater impact.
   https://www.youtube.com/watch?v=hJHvdBlSxug
 )
 
-
-
 - [ ] [
   Select data with Regular Expressions, REGEX (21 min)
 ](
@@ -292,6 +290,12 @@ Put your energy in the direction of something with a greater impact.
   Publish a first website with Github pages (20 min)
 ](
   https://pages.github.com/
+)
+
+- [ ] [
+  Write less error prone code with TypeScript
+](
+  https://youtu.be/BwuLxPH8IDs
 )
 
 ## Put your fundamental knowledge to action
