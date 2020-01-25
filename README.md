@@ -375,6 +375,7 @@ Put your energy in the direction of something with a greater impact.
 
 ## Get paid for your work
 
+- Protecting and growing the value of [assets](https://en.wikipedia.org/wiki/Asset) that you own or that are owned by other people
 - [ ] [Auditing](https://developers.google.com/web/tools/lighthouse) and improving 
   - Performance
   - Accessibility
