@@ -56,7 +56,7 @@ Put your energy in the direction of something with a greater impact.
     "editor.background": "#e0ffec",
   },`
   - [We evolved to detect predators in greenery](https://www.redsharknews.com/technology/item/4741-human-vision-and-why-the-colour-green-is-so-important)
-- [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste switching windows by having one or two large monitors
+- [ ] Prevent your [working memory](https://en.wikipedia.org/wiki/Working_memory) from going to waste [switching](https://en.wikipedia.org/wiki/Task_switching_(psychology)) windows by having one or two large monitors
 - [ ] Prevent auditive noise distraction while typing by having a silent keyboard
 - [ ] Prevent [Repetitive strain injury](https://en.wikipedia.org/wiki/Repetitive_strain_injury) by owning a vertical mouse
   - [Anker 2.4G Wireless Vertical Ergonomic Optical Mouse, 800 / 1200 /1600 DPI, 5 Buttons for Laptop, Desktop, PC, Macbook - Black](https://www.amazon.fr/gp/product/B00BIFNTMC/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BIFNTMC&linkCode=as2&tag=julienreszka-21&linkId=8d0a6e9cd9c415d691698a57b416a542)
