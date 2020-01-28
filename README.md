@@ -124,45 +124,23 @@ Put your energy in the direction of something with a greater impact.
   ](
     https://www.amazon.fr/gp/product/B01FMGB4KG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01FMGB4KG&linkCode=as2&tag=julienreszka-21&linkId=db217cde116a987915947d061c126f3e
   )
-
-## Write living documentations
-
-- [ ] [
-  Write README documents with Markdown (60 min)
-](
-  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-)
-
-- [ ] [
-  Get used to the `man`
-](
-  https://tldr.sh/
-)
-
-- [ ] [
-  Write feature specifications with Bahavior Driven Development (BDD) (60 min)
-](
-  https://en.wikipedia.org/wiki/Behavior-driven_development
-)
-
-- [ ] [
-  Write features with Test Driven Development (TDD) (60 min)
-](
-  https://en.wikipedia.org/wiki/Test-driven_development
-)
-
-- [ ] [
-  Evaluate the confidence that you should put in your code thanks to Code Coverage
-](
-  https://en.wikipedia.org/wiki/Code_coverage
-)
-
-- [ ] [
-  Get used to open source version control by Learning to use Github
-](
-  https://help.github.com/en
-)
-
+- [ ] Prevent yourself from repeating yourself by writing documentation
+  - Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specificaitons
+  -  Learn [Behavior Drive development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [ ] Prevent yourself from writing useless by writing automated tests before writing any code
+  -  Learn [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+- [ ] Prevent yourself from overconfidence
+  -  Evaluate the [code coverage](https://en.wikipedia.org/wiki/Code_coverage)
+- [ ] Prevent yourself from irremediable damage by using version control
+  -  [
+    Get used to open source version control by Learning to use Github
+  ](
+    https://help.github.com/en
+  )
+- [ ] Prevent duplicate work by asigning issues to a single assignee
+  - https://guides.github.com/features/issues/#filtering
+  
 ## Get a developer reputation
 
 - [ ] [
@@ -212,6 +190,12 @@ Put your energy in the direction of something with a greater impact.
 
 
 ## Setup your development environment
+
+- [ ] [
+  Get used to the `man`
+](
+  https://tldr.sh/
+)
 
 - [ ] [
   Backup your git repositories online on Github (10 min)
