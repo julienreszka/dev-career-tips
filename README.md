@@ -126,12 +126,12 @@ Put your energy in the direction of something with a greater impact.
   )
 - [ ] Prevent yourself from repeating yourself by writing documentation
   - Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specificaitons
-  -  Learn [Behavior Drive development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [ ] Prevent yourself from writing useless by writing automated tests before writing any code
-  -  Learn [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 - [ ] Prevent yourself from overconfidence
   -  Evaluate the [code coverage](https://en.wikipedia.org/wiki/Code_coverage)
+- [ ] Prevent yourself from writing useless by writing automated tests before writing any code
+  -  Learn [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+- [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specifications
+  -  Learn [Behavior Drive development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
