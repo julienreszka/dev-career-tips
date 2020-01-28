@@ -95,14 +95,15 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent yourself from getting out of shape, keeping your [physical fitness](https://en.wikipedia.org/wiki/Physical_fitness) by measuring how much physical activity you're doing with [Strava](
   https://www.strava.com/
 )
-- [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by having a high speed network connection to internet
-  - [Test your internet speed with Google](https://support.google.com/websearch/answer/6283840)
-  - Own a backup network access independent of your main network access
-- [ ] Prevent [lag](https://en.wikipedia.org/wiki/Lag) by working on a powerful computer that you own or that you can rent 
-  - [
-    Shadow allows you to stream a fully featured gaming PC to all your devices. Whether you're on your old PC, Mac, smartphone or TV.
-  ](https://shadow.tech/)
-  - Own a backup machine in case the first dies, keep it up to date
+- [ ] Prevent yourself from giving up because of [lag](https://en.wikipedia.org/wiki/Lag) by reducing latency between action and feedback
+  - having a high speed network connection to internet
+    - [Test your internet speed with Google](https://support.google.com/websearch/answer/6283840)
+    - Own a backup network access independent of your main network access
+  - working on a powerful computer that you own or that you can rent 
+    - [
+      Shadow allows you to stream a fully featured gaming PC to all your devices. Whether you're on your old PC, Mac, smartphone or TV.
+    ](https://shadow.tech/)
+    - Own a backup machine in case the first dies, keep it up to date
 - [ ] Prevent [fatigue](https://en.wikipedia.org/wiki/Fatigue) by getting a proper lighting in your working environment
 - [ ] Prevent [eye strain](https://en.wikipedia.org/wiki/Eye_strain) by always using a light theme in your text editor and everywhere else.
   - [Dark mode is bad for your eyes](https://youtu.be/bCaFRN3aaP8)
