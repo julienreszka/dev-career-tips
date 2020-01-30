@@ -132,7 +132,7 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent yourself from writing useless code by writing automated tests before writing any code
   - Learn [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 - [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specifications
-  - Learn [Behavior Drive development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+  - Learn [Behavior Driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
     - List features
       - For Each Feature
         - List the value proposition
