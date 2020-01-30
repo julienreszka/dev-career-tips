@@ -155,8 +155,12 @@ Put your energy in the direction of something with a greater impact.
             - Define the expected result of this action in this context (Then I should get a result like this: ...)
     - List stakeholders
       -  For Each Stakeholder
-        - Define the share they own of the asset 
-        - Define the reponsibilites they have regarding this asset
+        - List the shares they own of the asset 
+          - For each share they own of the asset
+            - Ask them for how much they would be ready to sell it right now
+        - List the reponsibilites they have regarding this asset
+          - For each responsibility
+            - List the limits of those responsibilites 
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
