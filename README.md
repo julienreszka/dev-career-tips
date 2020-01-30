@@ -145,11 +145,11 @@ Put your energy in the direction of something with a greater impact.
               - Phrase structure: As someone who is responsible of asset features like this: ...
             - Define the job to be done 
               - Phrase strucuture: I should be able to accomplish my mission of protecting those asset by doing this: ...
-              - List arguments to decide whether the persona should really be able to do this 
-                - For Each argument measure its weight
+              - List arguments to decide whether the persona should really be able to do this by summing up the weights of the arguments
+                - For Each argument measure its weight (+ or - * impact * risk)
                   - Is this a pro or con argument? (If it's a con argument, multiply the weight of the argument by minus one (*-1))  
-                  - What is the impact, how important is this argument? (give a number of stakeholders concerned)
-                  - What is the risk, how likely is this to happen? (give the likelihood of the event in a percentage)
+                  - What is the impact, how important is this argument? (give a number of stakeholders concerned (+n))
+                  - What is the risk, how likely is this to happen? (give the likelihood of the event per stakholder concerned (p/n))
                   - List examples and for Each example Source it
         - List scenarios for the feature
           - For Each scenerio
