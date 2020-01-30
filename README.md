@@ -139,10 +139,13 @@ Put your energy in the direction of something with a greater impact.
       - For Each Feature
         - List the value proposition
           - For Each value proposition
-            - Define the benefits for the persona (In order to get benefits like this: ...)
-            - Define the Persona (As someone who is like this: ...)
-            - Define the job to be done (I should be able to accomplish this: ...)
-              - List arguments to decide wheter the persona should really be able to do this 
+            - Define the benefits for the persona 
+              - Phrase structure: In order to prevent something I care about from losing in value...
+            - Define the Persona 
+              - Phrase structure: As someone who is in role of someone ...
+            - Define the job to be done 
+              - Phrase strucuture: I should be able to accomplish this mission ...
+              - List arguments to decide whether the persona should really be able to do this 
                 - For Each argument measure its weight
                   - Is this a pro or con argument? (If it's a con argument, multiply the weight of the argument by minus one (*-1))  
                   - What is the impact, how important is this argument? (give a number of stakeholders concerned)
