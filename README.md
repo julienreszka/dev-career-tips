@@ -133,30 +133,30 @@ Put your energy in the direction of something with a greater impact.
   - Learn [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 - [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specifications
   - Learn [Behavior Driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-    - List assets
-      - For Each asset
-        - List features
-          - For Each Feature
-            - List the value proposition
-              - For Each value proposition
-                - Define the benefits for the persona (In order to get benefits like this: ...)
-                - Define the Persona (As someone who is like this: ...)
-                - Define the job to be done (I should be able to accomplish this: ...)
-                  - List arguments to decide wheter the persona should really be able to do this 
-                    - For Each argument measure its weight
-                      - Is this a pro or con argument? (If it's a con argument, multiply the weight of the argument by minus one (*-1))  
-                      - What is the impact, how important is this argument? (give a number of stakeholders concerned)
-                      - What is the risk, how likely is this to happen? (give the likelihood of the event in a percentage)
-                      - Do you have any examples of this? (List examples for better illustration)
-            - List scenarios for the feature
-              - For Each scenerio
-                - Define the context (Given I am in a situation like this: ...)
-                - Define the action (When I do something like this: ...)
-                - Define the expected result of this action in this context (Then I should get a result like this: ...)
-        - List stakeholders
-          -  For Each Stakeholder
-            - Define the share they own of the asset 
-            - Define the reponsibilites they have regarding this asset
+- List assets
+  - For Each asset
+    - List features
+      - For Each Feature
+        - List the value proposition
+          - For Each value proposition
+            - Define the benefits for the persona (In order to get benefits like this: ...)
+            - Define the Persona (As someone who is like this: ...)
+            - Define the job to be done (I should be able to accomplish this: ...)
+              - List arguments to decide wheter the persona should really be able to do this 
+                - For Each argument measure its weight
+                  - Is this a pro or con argument? (If it's a con argument, multiply the weight of the argument by minus one (*-1))  
+                  - What is the impact, how important is this argument? (give a number of stakeholders concerned)
+                  - What is the risk, how likely is this to happen? (give the likelihood of the event in a percentage)
+                  - Do you have any examples of this? (List examples for better illustration)
+        - List scenarios for the feature
+          - For Each scenerio
+            - Define the context (Given I am in a situation like this: ...)
+            - Define the action (When I do something like this: ...)
+            - Define the expected result of this action in this context (Then I should get a result like this: ...)
+    - List stakeholders
+      -  For Each Stakeholder
+        - Define the share they own of the asset 
+        - Define the reponsibilites they have regarding this asset
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
