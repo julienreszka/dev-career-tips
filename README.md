@@ -285,6 +285,7 @@ Put your energy in the direction of something with a greater impact.
 ](
   https://zoom.us/support/download
 )
+  - Always test your network ping before joining https://www.speedtest.net/
 
 
 
