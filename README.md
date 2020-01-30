@@ -137,7 +137,7 @@ Put your energy in the direction of something with a greater impact.
   - For Each asset
     - List features
       - For Each Feature
-        - List the value proposition
+        - List the value propositions
           - For Each value proposition
             - Define the benefits for the persona 
               - Phrase structure: In order to prevent something bad from happening to my asset like this: ...
