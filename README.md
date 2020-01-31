@@ -164,7 +164,7 @@ Put your energy in the direction of something with a greater impact.
         - List the reponsibilites they have regarding this asset
           - For each responsibility
             - List the limits of those responsibilites 
-            - Prespare succession
+            - Prepare succession
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
