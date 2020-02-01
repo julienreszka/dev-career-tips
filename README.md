@@ -149,6 +149,7 @@ Put your energy in the direction of something with a greater impact.
                 - For Each argument measure its weight (+ or - * impact * risk)
                   - Is this a pro or con argument? (If it's a con argument, multiply the weight of the argument by minus one (*-1))  
                   - What is the impact, how important is this argument? (give a number of stakeholders concerned (+n))
+                      - List the affected stakeholder and weight them
                   - What is the risk, how likely is this to happen? (give the likelihood of the event per stakholder concerned (p/n))
                   - List examples and for Each example Source it
         - List scenarios for the feature
