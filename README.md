@@ -143,7 +143,7 @@ Put your energy in the direction of something with a greater impact.
     - (opposite)
   - make a list of causal links between a source event and a target event
   - create a force directed graph to visualise it
-- [ ] Prevent useless effort by assessing the status of each function of your system
+- [ ] Prevent system failure by assessing the status of each function of your system
   - ✔ (Desired and 🌎 Real)
     - 🟢 
       - Keep track of how long it's been the case and mark it as stable after a threshold
