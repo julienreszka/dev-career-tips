@@ -144,19 +144,19 @@ Put your energy in the direction of something with a greater impact.
   - make a list of causal links between a source event and a target event
   - create a force directed graph to visualise it
 - [ ] Prevent useless effort by assessing the status of each function of your system
-  - ✔ Desired and 🌎 Real
+  - ✔ (Desired and 🌎 Real)
     - 🟢 
       - Keep track of how long it's been the case and mark it as stable after a threshold
-  - ❌ undesired and 😴 imaginary
+  - ❌ (undesired and 😴 imaginary)
     - 🟢
       - Keep track of how long it's been the case and mark it as stable after a threshold
-  - ✔ Desired and 😴 imaginary
+  - ✔ (Desired and 😴 imaginary)
     - 🔴
       - Keep track of how long it's been the case and assign someone to create solution after it reaches a threshold
-  - ❌ undesired and 🌎 Real
+  - ❌ (undesired and 🌎 Real)
     - 🔴
       - Keep track of how long it's been the case and assign someone to eliminate problem after it reaches a threshold 
-  - ❌ undesired and 🌎 Real or ✔ Desired and 😴 imaginary and somebody is working on it
+  - ❌ (undesired and 🌎 Real) or (✔ Desired and 😴 imaginary) and (somebody is working on it)
     - 🟠
       - Keep track of how long it's been the case and mark it as stuck after a threshold
 - [ ] Prevent yourself from impeding on your teammates work by tracking who is responsible of which function and wheter this person is stuck
