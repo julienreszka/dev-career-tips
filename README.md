@@ -165,10 +165,8 @@ Put your energy in the direction of something with a greater impact.
   - ❌ (undesired and 🌎 Real) or (✔ Desired and 😴 imaginary) and (somebody is working on it)
     - 🟠
       - Keep track of how long it's been the case and mark it as stuck after a threshold
-- [ ] Prevent yourself from impeding on your teammates work by tracking who is responsible of which function and wheter this person is stuck
-  - Track the time since when the status of the function changed
-  - Set a duration after which you will receive help from others
-  - 
+- [ ] Prevent yourself from impeding on your teammates work by tracking who is responsible of which function
+  - Learn the [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
