@@ -143,10 +143,10 @@ Put your energy in the direction of something with a greater impact.
         - Keep track of how long it's been the case and mark it as stable after a threshold
     - ✔ Desired and 😴 imaginary
       - 🔴
-        - Create solution
+        - Keep track of how long it's been the case and assign someone to create solution after it reaches a threshold
     - ❌ undesired and 🌎 Real
       - 🔴
-        - Eliminate problem
+        - Keep track of how long it's been the case and assign someone to eliminate problem after it reaches a threshold 
     - ❌ undesired and 🌎 Real or ✔ Desired and 😴 imaginary and somebody is working on it
       - 🟠
         - Keep track of how long it's been the case and mark it as stuck after a threshold
