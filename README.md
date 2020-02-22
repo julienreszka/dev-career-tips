@@ -158,15 +158,15 @@ Put your energy in the direction of something with a greater impact.
     - 🔵
       - Define whether it's an issue
         - Keep track of how long it's been the case and mark it as `hazard ⚠` after a threshold
-  - (✔Desired and 🌎 Real) or (❌undesired and 💤 imaginary)
-    - 🟢 
-      - Keep track of how long it's been the case and mark it as `stable ⚖` after a threshold
-  - (✔ Desired and 💤 imaginary) (❌undesired and 🌎 Real) and (nobody is working on it)
     - 🔴
       - Keep track of how long it's been the case and mark it as `broken 🔥` after a threshold
   - ❌ (undesired and 🌎 Real) or (✔ Desired and 💤 imaginary) and (somebody is working on it)
     - 🟠
       - Keep track of how long it's been the case and mark it as `stuck 🆘` after a threshold
+  - (✔Desired and 🌎 Real) or (❌undesired and 💤 imaginary)
+    - 🟢 
+      - Keep track of how long it's been the case and mark it as `stable ⚖` after a threshold
+  - (✔ Desired and 💤 imaginary) (❌undesired and 🌎 Real) and (nobody is working on it)
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
     Get used to open source version control by Learning to use Github
