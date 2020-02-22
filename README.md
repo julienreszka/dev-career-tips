@@ -154,7 +154,7 @@ Put your energy in the direction of something with a greater impact.
     - 🟣
       - Make someone take the responsibility of this function
         - Keep track of how long it's been the case and mark it as `ignored 😴` after a threshold
-  - (✔Desired or 🌎 Real) and (❌undesired or 💤 imaginary)
+  - (✔Desired or ❌undesired) and (🌎 Real or 💤 imaginary)
     - 🔵
       - Define whether it's an issue
         - Keep track of how long it's been the case and mark it as `hazard ⚠` after a threshold
