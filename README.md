@@ -153,18 +153,18 @@ Put your energy in the direction of something with a greater impact.
   - (nobody is responsible)
     - 🟣
       - Make someone take the responsibility of this function
-        - Keep track of how long it's been the case and mark it as ignored after a threshold
-  - (✔Desired or 🌎 Real) and (❌undesired or 😴 imaginary)
+        - Keep track of how long it's been the case and mark it as `ignored 😴` after a threshold
+  - (✔Desired or 🌎 Real) and (❌undesired or 💤 imaginary)
     - 🔵
       - Define whether it's an issue
-        - Keep track of how long it's been the case and mark it as hazard after a threshold
-  - (✔Desired and 🌎 Real) or (❌undesired and 😴 imaginary)
+        - Keep track of how long it's been the case and mark it as `hazard ⚠` after a threshold
+  - (✔Desired and 🌎 Real) or (❌undesired and 💤 imaginary)
     - 🟢 
-      - Keep track of how long it's been the case and mark it as stable after a threshold
-  - (✔ Desired and 😴 imaginary) (❌undesired and 🌎 Real) and (nobody is working on it)
+      - Keep track of how long it's been the case and mark it as `stable ⚖` after a threshold
+  - (✔ Desired and 💤 imaginary) (❌undesired and 🌎 Real) and (nobody is working on it)
     - 🔴
-      - Keep track of how long it's been the case and mark it as broken after a threshold
-  - ❌ (undesired and 🌎 Real) or (✔ Desired and 😴 imaginary) and (somebody is working on it)
+      - Keep track of how long it's been the case and mark it as `broken 🔥` after a threshold
+  - ❌ (undesired and 🌎 Real) or (✔ Desired and 💤 imaginary) and (somebody is working on it)
     - 🟠
       - Keep track of how long it's been the case and mark it as stuck after a threshold
 - [ ] Prevent yourself from impeding on your teammates work by tracking who is responsible of which function
