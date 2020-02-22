@@ -166,7 +166,7 @@ Put your energy in the direction of something with a greater impact.
       - Keep track of how long it's been the case and mark it as `broken 🔥` after a threshold
   - ❌ (undesired and 🌎 Real) or (✔ Desired and 💤 imaginary) and (somebody is working on it)
     - 🟠
-      - Keep track of how long it's been the case and mark it as stuck after a threshold
+      - Keep track of how long it's been the case and mark it as `stuck 🆘` after a threshold
 - [ ] Prevent yourself from impeding on your teammates work by tracking who is responsible of which function
 - [ ] Prevent yourself from irremediable damage by using version control
   -  [
