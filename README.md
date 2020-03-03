@@ -134,19 +134,6 @@ Put your energy in the direction of something with a greater impact.
 - [ ] Prevent yourself from writing tests without clear specifications by learning to write feature specifications
   - Learn [Behavior Driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 - [ ] Prevent [unintended consequences](https://en.wikipedia.org/wiki/Unintended_consequences) by graphing [causal loop diagrams](https://en.wikipedia.org/wiki/Causal_loop_diagram)
-  - learn the different types of causal links
-    - (+)
-      - I drink water (+) I urinate 
-    - (-)
-      - I eat Food (-) I am hungry
-    - (++)
-      - I drink alcohool (++) I urinate
-    - (--)
-      - I sleep (--) I'm tired
-    - (same)
-      - I made a purchase (same) I bought a product
-    - (opposite)
-      - I am calm (opposite) I am excited
   - make a list of causal links between a source event and a target event
   - create a force directed graph to visualise it
 - [ ] Prevent system failure by assessing the status of each function of your system
@@ -157,7 +144,7 @@ Put your energy in the direction of something with a greater impact.
   ](
     https://help.github.com/en
   )
-- [ ] Prevent duplicate work by asigning issues to a single assignee
+- [ ] issues are assigned to Prevent duplicate work by asigning issues to a single assignee
   - https://guides.github.com/features/issues/#filtering
   
 ## Get a developer reputation
