@@ -22,68 +22,6 @@ You should test everything yourself. Don't always trust the docs.
 
 [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this list on your computer and start checking the boxes.
 
-## Learn project management
-
-- [ ] [
-  Learning by growing success
-](
-  https://blog.julienreszka.com/2019/09/economics-of-user-experience-of-using.html
-)
-
-- [ ] [
-  Growing by defining Desirable Outcomes with Milestones 
-](
-  https://blog.julienreszka.com/2020/01/putting-man-on-moon-shouldnt-have-been.html
-)
-
-- [ ] [
-  Coping with rejection
-](
-  https://blog.julienreszka.com/2019/07/coping-with-likelihood-to-get-rejected.html
-)
-
-- [ ] [
-  Getting paid upfront
-](
-  https://blog.julienreszka.com/2020/01/turns-out-people-shouldnt-do-any-work.html
-)
-
-- [ ] [
-  Correctly estimating deadlines
-](
-  https://blog.julienreszka.com/2020/01/why-assuming-that-achieving-goal-will.html
-)
-
-- [ ] [
-  Staying professional
-](
-  https://blog.julienreszka.com/2019/12/the-difference-between-professional-and.html
-)
-
-- [ ] [
-  Understanding the difference between a mission and a goal
-](
-  https://blog.julienreszka.com/2019/12/the-difference-between-mission-and-goal.html
-)
-
-- [ ] [
-  Understanding the economics of user experience 
-](
-  https://blog.julienreszka.com/2019/09/economics-of-user-experience-of-using.html
-)
-
-- [ ] [
-  Doing the hard things instead of taking shortcuts
-](
-  https://blog.julienreszka.com/2020/01/chosing-to-do-things-not-because-they.html
-)
-
-- [ ] [
-  Pushing people who disagree with reality to the limits of their reasoning
-](
-  https://blog.julienreszka.com/2019/12/what-should-you-do-with-people-who.html
-)
-
 ## Prevent undesired effort
 
 You will need to spend a lot of time focused every day, don't let your energy go to waste, control your environment.
